@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "start": "python serverstats.py",
+    "test": "mocha --reporter spec test"
   },
   "dependencies": {
     "asyncio": "^0.0.2",
