@@ -1,1 +1,1 @@
-web: npm run start
+worker: python serverstats.py
